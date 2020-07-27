@@ -1,2 +1,4 @@
 # image_clasification
-Image clasification using python
+Clasifiy an image which contain a hand sign, and predict whether it is a paper, rock or scissor.
+
+Using python, tensorflow and keras.
